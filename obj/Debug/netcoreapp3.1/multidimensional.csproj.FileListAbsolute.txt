@@ -1,0 +1,12 @@
+/Users/nhannguyen/Desktop/multidimensional/bin/Debug/netcoreapp3.1/multidimensional.deps.json
+/Users/nhannguyen/Desktop/multidimensional/bin/Debug/netcoreapp3.1/multidimensional.runtimeconfig.json
+/Users/nhannguyen/Desktop/multidimensional/bin/Debug/netcoreapp3.1/multidimensional.runtimeconfig.dev.json
+/Users/nhannguyen/Desktop/multidimensional/bin/Debug/netcoreapp3.1/multidimensional.dll
+/Users/nhannguyen/Desktop/multidimensional/bin/Debug/netcoreapp3.1/multidimensional.pdb
+/Users/nhannguyen/Desktop/multidimensional/obj/Debug/netcoreapp3.1/multidimensional.csprojAssemblyReference.cache
+/Users/nhannguyen/Desktop/multidimensional/obj/Debug/netcoreapp3.1/multidimensional.AssemblyInfoInputs.cache
+/Users/nhannguyen/Desktop/multidimensional/obj/Debug/netcoreapp3.1/multidimensional.AssemblyInfo.cs
+/Users/nhannguyen/Desktop/multidimensional/obj/Debug/netcoreapp3.1/multidimensional.csproj.CoreCompileInputs.cache
+/Users/nhannguyen/Desktop/multidimensional/obj/Debug/netcoreapp3.1/multidimensional.dll
+/Users/nhannguyen/Desktop/multidimensional/obj/Debug/netcoreapp3.1/multidimensional.pdb
+/Users/nhannguyen/Desktop/multidimensional/obj/Debug/netcoreapp3.1/multidimensional.genruntimeconfig.cache
